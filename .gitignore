@@ -1,0 +1,10 @@
+node_modules/
+dist/
+*.mp4
+*.log
+render_progress.txt
+frames/
+out/
+test-canvas.png
+ff_test.mp4
+.DS_Store
